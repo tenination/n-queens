@@ -210,30 +210,6 @@
       return false;
     }
     
-    // var rows = this.rows();
-    //   var index = 2 * rows.length - 2;
-    //   var sum = 0;
-      
-    //   for (var i = index; i >= 0; i--) {
-    //     if (rows[i][minorDiagonalColumnIndexAtFirstRow + i] === 1) {
-    //       sum++;
-    //     }
-    //     if (sum > 1) {
-    //       return true;
-    //     }
-    //   }
-      
-      
-    //   var rows = this.rows();
-    //   var index = 2 * rows.length - 2;
-      
-    //   for (var i = 0; i <= index; i++) {
-    //     if (this.hasMinorDiagonalConflictAt(i)) {
-    //       return true;
-    //     } 
-    //   }
-      
-
     /*--------------------  End of Helper Functions  ---------------------*/
 
 
